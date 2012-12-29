@@ -1,0 +1,16 @@
+<Products>
+    <Product category="ABC">
+        <Item_number>123</Item_number>
+        <Description>Coffee table</Description>
+    </Product>
+
+    <Product category="ABC">
+        <Item_number>456</Item_number>
+        <Description>Lamp shade</Description>
+    </Product>
+
+    <Product category="XYZ">
+        <Item_number>789</Item_number>
+        <Description>Orange chair</Description>
+    </Product>
+</Products>
